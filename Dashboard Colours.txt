@@ -1,0 +1,13 @@
+Dashboard Colours:
+
+Red #ED3237
+
+Blue #1E5C7E
+
+Yellow #FFF325
+
+Light Red #F37073
+
+Light Yellow #FFF560
+
+Light Yellow BG colour: #FFFEF4
